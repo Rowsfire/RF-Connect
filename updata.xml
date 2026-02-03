@@ -1,0 +1,9 @@
+<item>
+  <version>1.7.1.0</version>
+
+    <url>https://github.com/Rowsfire/RF-Connect/releases/download/v1.7.1.0/RowsfireApp_Setup_1.7.1.0.exe</url>
+
+   <changelog>https://github.com/Rowsfire/RF-Connect/releases/tag/v1.7.1.0</changelog>
+
+  <mandatory>false</mandatory>
+</item>
